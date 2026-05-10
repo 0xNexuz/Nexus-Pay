@@ -1,0 +1,3 @@
+/target
+# Ignore private keys and local state caches
+*.json
